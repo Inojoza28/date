@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(57, 156, 238);
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
