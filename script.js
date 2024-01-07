@@ -13,9 +13,8 @@ function respostaSim() {
     mensagemElement.style.fontSize = "1.2em"; // Ajuste o tamanho conforme necessário
 }
 
-
-function respostaNao() {
-    // Mover o botão "Não" para um local aleatório
+function mudarPosicaoNao() {
+    // Mover o botão "Não" para uma posição aleatória
     const naoBtn = document.getElementById("naoBtn");
     naoBtn.style.position = "absolute";
     naoBtn.style.left = Math.random() * (window.innerWidth - naoBtn.clientWidth) + "px";
