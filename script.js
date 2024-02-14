@@ -6,7 +6,7 @@ function respostaSim() {
 
     // Atualiza a mensagem
     var mensagemElement = document.getElementById("mensagem");
-    mensagemElement.innerText = "Oxii então fecho, fala comigo no whats! Tmj, amo tu ♡";
+    mensagemElement.innerText = "PARTIUU!! Chama no whats ♡";
 
     // Adiciona estilos ao elemento de texto
     mensagemElement.style.color = "white";
