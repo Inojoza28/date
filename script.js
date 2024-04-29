@@ -6,7 +6,7 @@ function respostaSim() {
 
     // Atualiza a mensagem
     var mensagemElement = document.getElementById("mensagem");
-    mensagemElement.innerText = "PARTIUU!! Chama no whats ♡";
+    mensagemElement.innerText = "Aceitou foi!? Então vamos...🌹";
 
     // Adiciona estilos ao elemento de texto
     mensagemElement.style.color = "white";
