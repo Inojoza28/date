@@ -54,7 +54,7 @@ button:disabled {
 /* Estilos para telas pequenas */
 @media only screen and (max-width: 480px) {
     h1 {
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
     .buttons {
         margin-top: 10px;
